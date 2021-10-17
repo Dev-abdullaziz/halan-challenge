@@ -1,0 +1,48 @@
+.login {
+    max-width: 350px;
+    padding: 50px;
+    box-shadow: 0 0 10px 2px #ccc;
+    border-radius: 5px;
+    background-color: whitesmoke;
+}
+.login h1 {
+    color: steelblue;
+}
+
+.login form {
+    text-align: center;
+    width: 250px;
+    margin: 0;
+    padding: 0;
+}
+
+.login label {
+    width: 100%;
+    text-align: left;
+}
+
+.login input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: 1px solid steelblue;
+}
+
+
+.login button {
+    width: 100%;
+    padding: 10px;
+    background-color: slategray;
+    color: white;
+    font-weight: 600;
+    border: none;
+    border-radius: 5px;
+}
+.login p {
+    color: tomato;
+}
+
+.login button:hover {
+    background-color: steelblue;
+}

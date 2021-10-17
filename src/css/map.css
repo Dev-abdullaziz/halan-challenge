@@ -1,0 +1,27 @@
+.map {
+    height: 100vh;
+}
+
+.nav {
+    height: 10vh;
+}
+
+.nav .col {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.map-container {
+    display: flex;
+    justify-content: center;
+}
+
+.map-container>div {
+    width: 800px;
+    height: 450px;
+}
+
+.saveZone label, .saveZone input:first-of-type{
+    width: 100%;
+}
